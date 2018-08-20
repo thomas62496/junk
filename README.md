@@ -1,157 +1,81 @@
- #EXTM3U
-#EXTINF:-1,US: CNN HD
-http://193.200.164.171:6969/live/iptvhenry/O1CPBlbZ6K/142.ts
-#EXTINF:-1,US: ANIMAL PLANET HD
-http://193.200.164.171:6969/live/iptvhenry/O1CPBlbZ6K/132.ts
-#EXTINF:-1,US: CW11
-http://193.200.164.171:6969/live/iptvhenry/O1CPBlbZ6K/5768.ts
-#EXTINF:-1,US: Discovery HD Showcase
-http://193.200.164.171:6969/live/iptvhenry/O1CPBlbZ6K/5761.ts
-#EXTINF:-1,US: Fine Living
-http://193.200.164.171:6969/live/iptvhenry/O1CPBlbZ6K/5759.ts
-#EXTINF:-1,US: FUEL HD
-http://193.200.164.171:6969/live/iptvhenry/O1CPBlbZ6K/5758.ts
-#EXTINF:-1,US: HGTV HD
-http://193.200.164.171:6969/live/iptvhenry/O1CPBlbZ6K/5794.ts
-#EXTINF:-1,US: MTV Rocks
-http://193.200.164.171:6969/live/iptvhenry/O1CPBlbZ6K/5757.ts
-#EXTINF:-1,US: CW HD
-http://193.200.164.171:6969/live/iptvhenry/O1CPBlbZ6K/140.ts
-#EXTINF:-1,US: COMEDY CENTRAL HD
-http://193.200.164.171:6969/live/iptvhenry/O1CPBlbZ6K/141.ts
-#EXTINF:-1,US: CBS
-http://193.200.164.171:6969/live/iptvhenry/O1CPBlbZ6K/131.ts
-#EXTINF:-1,US: BRAVO HD(1)
-http://193.200.164.171:6969/live/iptvhenry/O1CPBlbZ6K/128.ts
-#EXTINF:-1,US: ABC NEWS HD
-http://193.200.164.171:6969/live/iptvhenry/O1CPBlbZ6K/135.ts
-#EXTINF:-1,US: ABC HD
-http://193.200.164.171:6969/live/iptvhenry/O1CPBlbZ6K/136.ts
-#EXTINF:-1,US: HBO Zone
-http://193.200.164.171:6969/live/iptvhenry/O1CPBlbZ6K/2454.ts
-#EXTINF:-1,US: HBO Signature
-http://193.200.164.171:6969/live/iptvhenry/O1CPBlbZ6K/2458.ts
-#EXTINF:-1,US: HBO HD
-http://193.200.164.171:6969/live/iptvhenry/O1CPBlbZ6K/2455.ts
-#EXTINF:-1,US: HBO East
-http://193.200.164.171:6969/live/iptvhenry/O1CPBlbZ6K/2456.ts
-#EXTINF:-1,US: HBO Comedy
-http://193.200.164.171:6969/live/iptvhenry/O1CPBlbZ6K/2457.ts
-#EXTINF:-1,US: FXX
-http://193.200.164.171:6969/live/iptvhenry/O1CPBlbZ6K/2452.ts
-#EXTINF:-1,US: DISCOVERY HD
-http://193.200.164.171:6969/live/iptvhenry/O1CPBlbZ6K/139.ts
-#EXTINF:-1,US: CNBC
-http://193.200.164.171:6969/live/iptvhenry/O1CPBlbZ6K/3246.ts
-#EXTINF:-1,US: CBSN HD
-http://193.200.164.171:6969/live/iptvhenry/O1CPBlbZ6K/2222.ts
-#EXTINF:-1,US: BYU TV
-http://193.200.164.171:6969/live/iptvhenry/O1CPBlbZ6K/164.ts
-#EXTINF:-1,US : AMC HD
-http://193.200.164.171:6969/live/iptvhenry/O1CPBlbZ6K/179.ts
-#EXTINF:-1,US: Fox HD
-http://193.200.164.171:6969/live/iptvhenry/O1CPBlbZ6K/6965.ts
-#EXTINF:-1,US: MSNBC
-http://193.200.164.171:6969/live/iptvhenry/O1CPBlbZ6K/7685.ts
-#EXTINF:-1,US: E!
-http://193.200.164.171:6969/live/iptvhenry/O1CPBlbZ6K/7775.ts
-#EXTINF:-1,US: Toon Kids
-http://193.200.164.171:6969/live/iptvhenry/O1CPBlbZ6K/7782.ts
-#EXTINF:-1,US: Discovery Channel
-http://193.200.164.171:6969/live/iptvhenry/O1CPBlbZ6K/7917.ts
-#EXTINF:-1,US: DISNEY JR HD
-http://193.200.164.171:6969/live/iptvhenry/O1CPBlbZ6K/7918.ts
-#EXTINF:-1,US: Disney XD HD
-http://193.200.164.171:6969/live/iptvhenry/O1CPBlbZ6K/7919.ts
-#EXTINF:-1,US: CNN HD *
-http://193.200.164.171:6969/live/iptvhenry/O1CPBlbZ6K/7982.ts
-#EXTINF:-1,US: NASA TV HD
-http://193.200.164.171:6969/live/iptvhenry/O1CPBlbZ6K/8390.ts
-#EXTINF:-1,US: DESTINATION AMERICA
-http://193.200.164.171:6969/live/iptvhenry/O1CPBlbZ6K/10184.ts
-#EXTINF:-1,US: MTV HD
-http://193.200.164.171:6969/live/iptvhenry/O1CPBlbZ6K/16088.ts
-#EXTINF:-1,USA A&E
-http://54.37.255.204:9977/live/Carlos6/Carlos6/35251.ts
-#EXTINF:-1,USA ABC NEWS
-http://54.37.255.204:9977/live/Carlos6/Carlos6/35248.ts
-#EXTINF:-1,USA AFN Movie
-http://54.37.255.204:9977/live/Carlos6/Carlos6/35245.ts
-#EXTINF:-1,USA AMC
-http://54.37.255.204:9977/live/Carlos6/Carlos6/35243.ts
-#EXTINF:-1,USA Bravo
-http://54.37.255.204:9977/live/Carlos6/Carlos6/35241.ts
-#EXTINF:-1,USA CBS
-http://54.37.255.204:9977/live/Carlos6/Carlos6/35247.ts
-#EXTINF:-1,USA CineMax
-http://54.37.255.204:9977/live/Carlos6/Carlos6/35244.ts
-#EXTINF:-1,USA CNBC
-http://54.37.255.204:9977/live/Carlos6/Carlos6/35240.ts
-#EXTINF:-1,USA CW
-http://54.37.255.204:9977/live/Carlos6/Carlos6/35239.ts
-#EXTINF:-1,USA FOX
-http://54.37.255.204:9977/live/Carlos6/Carlos6/35236.ts
-#EXTINF:-1,USA Fox News
-http://54.37.255.204:9977/live/Carlos6/Carlos6/35235.ts
-#EXTINF:-1,USA FX
-http://54.37.255.204:9977/live/Carlos6/Carlos6/35232.ts
-#EXTINF:-1,USA Hallmark
-http://54.37.255.204:9977/live/Carlos6/Carlos6/35231.ts
-#EXTINF:-1,USA HBO
-http://54.37.255.204:9977/live/Carlos6/Carlos6/35254.ts
-#EXTINF:-1,USA HBO FAMILY
-http://54.37.255.204:9977/live/Carlos6/Carlos6/35253.ts
-#EXTINF:-1,USA HBO Signature
-http://54.37.255.204:9977/live/Carlos6/Carlos6/35255.ts
-#EXTINF:-1,USA HBO US
-http://54.37.255.204:9977/live/Carlos6/Carlos6/35256.ts
-#EXTINF:-1,USA HBO ZONE
-http://54.37.255.204:9977/live/Carlos6/Carlos6/35252.ts
-#EXTINF:-1,USA HISTORY
-http://54.37.255.204:9977/live/Carlos6/Carlos6/35230.ts
-#EXTINF:-1,USA MTV Live
-http://54.37.255.204:9977/live/Carlos6/Carlos6/35229.ts
-#EXTINF:-1,USA NBC
-http://54.37.255.204:9977/live/Carlos6/Carlos6/35246.ts
-#EXTINF:-1,USA NETWORK
-http://54.37.255.204:9977/live/Carlos6/Carlos6/35221.ts
-#EXTINF:-1,USA Showtime
-http://54.37.255.204:9977/live/Carlos6/Carlos6/35225.ts
-#EXTINF:-1,USA SHOWTIME SHOWCASE
-http://54.37.255.204:9977/live/Carlos6/Carlos6/35224.ts
-#EXTINF:-1,USA STARZ CINEMA
-http://54.37.255.204:9977/live/Carlos6/Carlos6/35223.ts
-#EXTINF:-1,USA STARZ COMEDY
-http://54.37.255.204:9977/live/Carlos6/Carlos6/35222.ts
-#EXTINF:-1,USA STARZ ENCORE
-http://54.37.255.204:9977/live/Carlos6/Carlos6/35220.ts
-#EXTINF:-1,USA SYFY
-http://54.37.255.204:9977/live/Carlos6/Carlos6/35219.ts
-#EXTINF:-1,5USA_Plus1
-http://217.23.15.183:8789/live/mimoun/123456/1862.ts
-#EXTINF:-1,|USA| ABC 7
-http://217.23.15.183:8789/live/mimoun/123456/1957.ts
-#EXTINF:-1,USA:Bravo
-http://217.23.15.183:8789/live/mimoun/123456/1946.ts
-#EXTINF:-1,|USA| SBTN
-http://217.23.15.183:8789/live/mimoun/123456/1950.ts
-#EXTINF:-1,|USA| CNN HD
-http://217.23.15.183:8789/live/mimoun/123456/1947.ts
-#EXTINF:-1,|USA| FOOD NETWORK
-http://217.23.15.183:8789/live/mimoun/123456/1951.ts
-#EXTINF:-1,|USA| FX TV HD
-http://217.23.15.183:8789/live/mimoun/123456/1945.ts
-#EXTINF:-1,|USA| HBO
-http://217.23.15.183:8789/live/mimoun/123456/1955.ts
-#EXTINF:-1,|USA| HBO ZONE
-http://217.23.15.183:8789/live/mimoun/123456/1956.ts
-#EXTINF:-1,|USA| NICKTOONS
-http://217.23.15.183:8789/live/mimoun/123456/1952.ts
-#EXTINF:-1,|USA| FREEFROM
-http://217.23.15.183:8789/live/mimoun/123456/1948.ts
-#EXTINF:-1,|USA| ABC NEWS
-http://217.23.15.183:8789/live/mimoun/123456/1962.ts
-#EXTINF:-1,|USA| Travel Channel
-http://217.23.15.183:8789/live/mimoun/123456/1954.ts
-
-
+#EXTM3U
+EXTINF:-1,US: AXN HD
+http://212.8.248.197:8080/live/sam02/sam02/1503.ts
+EXTINF:-1,US: Free From
+http://212.8.248.197:8080/live/sam02/sam02/1448.ts
+EXTINF:-1,US: A&E Network
+http://212.8.248.197:8080/live/sam02/sam02/1458.ts
+EXTINF:-1,US: Thrill HD
+http://212.8.248.197:8080/live/sam02/sam02/1471.ts
+EXTINF:-1,US: FOX life HD
+http://212.8.248.197:8080/live/sam02/sam02/1510.ts
+EXTINF:-1,US: Bravo HD
+http://212.8.248.197:8080/live/sam02/sam02/1507.ts
+EXTINF:-1,US: A&E HD
+http://212.8.248.197:8080/live/sam02/sam02/1500.ts
+EXTINF:-1,US: NBC Golf
+http://212.8.248.197:8080/live/sam02/sam02/1477.ts
+EXTINF:-1,US: CBS HD
+http://212.8.248.197:8080/live/sam02/sam02/1485.ts
+EXTINF:-1,US: CHCH 2
+http://212.8.248.197:8080/live/sam02/sam02/1482.ts
+EXTINF:-1,US: Free Rom
+http://212.8.248.197:8080/live/sam02/sam02/1465.ts
+EXTINF:-1,US: AMC HD
+http://212.8.248.197:8080/live/sam02/sam02/1534.ts
+EXTINF:-1,US: Discovery World
+http://212.8.248.197:8080/live/sam02/sam02/1499.ts
+EXTINF:-1,US: Bloomberg
+http://212.8.248.197:8080/live/sam02/sam02/1464.ts
+EXTINF:-1,US: History
+http://212.8.248.197:8080/live/sam02/sam02/1523.ts
+EXTINF:-1,US: NatGeo Wild
+http://212.8.248.197:8080/live/sam02/sam02/1484.ts
+EXTINF:-1,US: Animal Planet+1
+http://212.8.248.197:8080/live/sam02/sam02/1467.ts
+EXTINF:-1,US: Discovery Velocity HD
+http://212.8.248.197:8080/live/sam02/sam02/1529.ts
+EXTINF:-1,US: Crime and Investigation
+http://212.8.248.197:8080/live/sam02/sam02/1511.ts
+EXTINF:-1,US: Famly HD
+http://212.8.248.197:8080/live/sam02/sam02/1495.ts
+EXTINF:-1,US: SEC Network
+http://212.8.248.197:8080/live/sam02/sam02/1463.ts
+EXTINF:-1,US: FOX Comedy
+http://212.8.248.197:8080/live/sam02/sam02/1432.ts
+EXTINF:-1,US: USA Network
+http://212.8.248.197:8080/live/sam02/sam02/1498.ts
+EXTINF:-1,US: More Max HD
+http://212.8.248.197:8080/live/sam02/sam02/1460.ts
+EXTINF:-1,US: TBS HD
+http://212.8.248.197:8080/live/sam02/sam02/1506.ts
+EXTINF:-1,US: CBC Toronto
+http://212.8.248.197:8080/live/sam02/sam02/1541.ts
+EXTINF:-1,US: CBC Vancover
+http://212.8.248.197:8080/live/sam02/sam02/1494.ts
+EXTINF:-1,US: Spike HD
+http://212.8.248.197:8080/live/sam02/sam02/1442.ts
+EXTINF:-1,US: E TV
+http://212.8.248.197:8080/live/sam02/sam02/1531.ts
+EXTINF:-1,US: TV ONE HD
+http://212.8.248.197:8080/live/sam02/sam02/1481.ts
+EXTINF:-1,US: CBSN HD
+http://212.8.248.197:8080/live/sam02/sam02/1462.ts
+EXTINF:-1,US: ABC 7
+http://212.8.248.197:8080/live/sam02/sam02/1491.ts
+EXTINF:-1,US: News Channel 21
+http://212.8.248.197:8080/live/sam02/sam02/1456.ts
+EXTINF:-1,US: ABC NEWS HD
+http://212.8.248.197:8080/live/sam02/sam02/1466.ts
+EXTINF:-1,US: BBC Amrica
+http://212.8.248.197:8080/live/sam02/sam02/1514.ts
+EXTINF:-1,US: CNN Eng
+http://212.8.248.197:8080/live/sam02/sam02/1443.ts
+EXTINF:-1,US: Msnbc
+http://212.8.248.197:8080/live/sam02/sam02/1447.ts
+EXTINF:-1,US: Beto TV
+http://212.8.248.197:8080/live/sam02/sam02/1530.ts
+EXTINF:-1,US: TWiT TV
+http://212.8.248.197:8080/live/sam02/sam02/1535.ts
+EXTINF:-1,US: TSC
+http://212.8.248.197:8080/live/sam02/sam02/1449.ts
